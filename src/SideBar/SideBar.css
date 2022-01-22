@@ -1,0 +1,62 @@
+.Main__BAr {
+  height: 100vh;
+  width: 300px;
+  position: fixed;
+  border-right: 1px solid rgba(0, 0, 0, 0.295);
+  line-height: 1.57143;
+  font-size: 0.875rem;
+  font-family: "Public Sans", sans-serif;
+  font-weight: 400;
+}
+#ing {
+  height: 40px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+#ingr {
+  height: 40px;
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 100px;
+}
+.admin {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.048);
+  width: 250px;
+  height:70px;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+.ul h4 {
+  color: rgba(0, 0, 0, 0.63);
+  font-weight: 200;
+  font-size: 16px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  padding-left: 40px;
+  height: 50px;
+  margin-top: 10px;
+  line-height: 1.57143;
+  font-family: "Public Sans", sans-serif;
+}
+.ul {
+  margin-left: -39px;
+  margin-top: 30px;
+  font-size: 10px;
+}
+.ul li:hover {
+  background-color: rgba(0, 0, 0, 0.034);
+}
+#ghjg {
+  margin: 20px;
+  margin: 0px;
+  font-weight: 600;
+  line-height: 1.57143;
+  font-size: 0.975rem;
+  font-family: "Public Sans", sans-serif;
+  color: rgb(33, 43, 54);
+}

@@ -1,0 +1,10 @@
+.Example{
+    font-size: 90px;
+    
+    &.active{
+        color:green;
+        &:hover{
+            color:blue;
+        }
+    }
+}
